@@ -4,3 +4,6 @@ token:
 
 gateway:
   ip: 192.168.35.2
+
+test:
+  temp: 123
